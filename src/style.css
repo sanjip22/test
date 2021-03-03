@@ -1,0 +1,22 @@
+.b{
+    background-color: blueviolet;
+}
+.container{
+    width: 500px;
+    height: auto;
+    
+
+}
+.form-floating{
+    
+    margin: 20px;
+}
+.card-title{
+    color: maroon;
+    font-style: italic;
+    
+}
+p{
+    color: olive;
+    font-family: bold;
+}
